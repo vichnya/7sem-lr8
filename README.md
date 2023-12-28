@@ -6,7 +6,7 @@ python setup.py sdist
 ```
 Сделано по [туториалу](https://docs.djangoproject.com/en/3.2/intro/reusable-apps/).
 
-3. Контейнеризованный вариант написанного приложения лежит в djangoProject_lr6
+2. Контейнеризованный вариант написанного приложения лежит в djangoProject_lr6
 Сборка контейнера:
 ```
 docker-compose up -d
