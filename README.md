@@ -12,4 +12,3 @@ python setup.py sdist
 docker-compose up -d
 ```
 Сделано по [туториалу](https://pythonru.com/uroki/docker-django).  
-![Картинка](img.png)
